@@ -9,9 +9,9 @@ Maintenance:  Simon Kinjo
 >An advanced way to search the internet
 ---
 
-https://github.com/dedsecurity/DedSecuritySearch
-https://github.com/dedsecurity/Bee
-https://github.com/dedsecurity/scansite
+[Ded Security Search](https://github.com/dedsecurity/DedSecuritySearch)
+[Ded Security Bee](https://github.com/dedsecurity/Bee)
+[Scansite](https://github.com/dedsecurity/scansite)
 
 ## Contributing
 Feel free to submitting pull requests to us.
