@@ -10,7 +10,6 @@ Maintenance:  Simon Kinjo
 ---
 
 * [Ded Security Search](https://github.com/dedsecurity/DedSecuritySearch)
-* [Ded Security Bee](https://github.com/dedsecurity/Bee)
 * [Scansite](https://github.com/dedsecurity/scansite)
 
 ## Contributing
