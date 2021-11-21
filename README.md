@@ -11,6 +11,7 @@ Maintenance:  Simon Kinjo
 
 * [Ded Security Search](https://github.com/dedsecurity/DedSecuritySearch)
 * [Scansite](https://github.com/dedsecurity/scansite)
+* [Bagley](https://github.com/dedsecurity/Bagley)
 
 ## Contributing
 Feel free to submitting pull requests to us.
